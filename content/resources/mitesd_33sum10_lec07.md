@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture presentation on critical parameter development and management,
   deriving capability indices, and seven checks for criticality.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-33-systems-engineering-summer-2010/95297204c1d43734b72f67193f2aff71_MITESD_33SUM10_lec07.pdf
+file: /media/courses/esd-33-systems-engineering-summer-2010/95297204c1d43734b72f67193f2aff71_MITESD_33SUM10_lec07.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Critical Parameter Development & Mgt.
 uid: 95297204-c1d4-3734-b72f-67193f2aff71
