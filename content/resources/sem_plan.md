@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 842187f1-035a-9de3-2720-28f4644cf148
 resourcetype: Image
 title: Sem_Plan.jpg
 uid: c6d6a6a2-6513-2aa4-3519-ceaf95481f2c

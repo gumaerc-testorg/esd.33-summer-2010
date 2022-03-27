@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bbd7ecf5-1374-7542-4e2b-c39f9be5f0aa
 resourcetype: Document
 title: Innovation in Systems  Engineering
 uid: 688d747e-dcfa-ea34-28fa-599b88c5a30d

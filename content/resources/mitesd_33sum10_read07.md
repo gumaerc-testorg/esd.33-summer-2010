@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f3c70c25-be36-706d-c34b-89e34c488d1c
 resourcetype: Document
 title: Critical Parameter Management
 uid: 1e402d07-2db9-9621-8dd0-376008907432
