@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/esd-33-systems-engineering-summer-2010/c6d6a6a265132aa43519ceaf95481f2c_Sem_Plan.jpg
+file: /courses/esd-33-systems-engineering-summer-2010/c6d6a6a265132aa43519ceaf95481f2c_Sem_Plan.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the readings assigned for each session of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -138,7 +139,7 @@ CPM DFSS
 {{< tdopen >}}
 
 
-Critical Parameter Management ([PDF]({{< baseurl >}}/resources/mitesd_33sum10_read07)) (Courtesy of Dan Frey and Don Clausing. Used with permission.)
+Critical Parameter Management ({{% resource_link 1e402d07-2db9-9621-8dd0-376008907432 "PDF" %}}) (Courtesy of Dan Frey and Don Clausing. Used with permission.)
 
 "Introduction to Critical Parameter Management." Chapter 8 in _Design for Six Sigma: In Technology and Product Development_. Upper Saddle River, NJ: Prentice Hall, 2002.
 
@@ -162,7 +163,7 @@ McManus, Hugh L., and Todd E. Schuman. "Understanding the Orbital Transfer Vehic
 
 Ross, Adam M., and Daniel E. Hastings. "The Tradespace Exploration Paradigm." INCOSE International Symposium, Rochester, NY, July 10-15, 2005.
 
-National Aeronautics and Space Administration. Chapter 6 in _Systems Engineering Handbook_. Washington, D.C.: NASA STI, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 8.5MB](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20080008301_2008008500.pdf))
+National Aeronautics and Space Administration. Chapter 6 in _Systems Engineering Handbook_. Washington, D.C.: NASA STI, 2007. ([PDF - 8.5MB](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20080008301_2008008500.pdf))
 
 
 {{< tdclose >}}

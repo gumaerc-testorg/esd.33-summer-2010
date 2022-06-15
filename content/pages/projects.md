@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a detailed overview of the course project and information
+  on goals and deliverables.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
