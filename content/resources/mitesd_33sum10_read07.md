@@ -6,6 +6,7 @@ file: /courses/esd-33-systems-engineering-summer-2010/1e402d072db996218dd0376008
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Critical Parameter Management
 uid: 1e402d07-2db9-9621-8dd0-376008907432
 ---
 Article on Critical Parameter Management (CPM), an engineering practice aimed at maintaining system robustness through detailed design and manufacturing.
-

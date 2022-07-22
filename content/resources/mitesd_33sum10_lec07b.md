@@ -6,6 +6,7 @@ file: /courses/esd-33-systems-engineering-summer-2010/69261b72bed60ec44f5e50c12f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: PDSS Critical Parameter Development & Mgt. Process Quick Guide
 uid: 69261b72-bed6-0ec4-4f5e-50c12fa7fade
 ---
 Lecture presentation providing a quick guide to critical parameter development and management.
-

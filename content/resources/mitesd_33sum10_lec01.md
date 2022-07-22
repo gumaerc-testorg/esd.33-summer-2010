@@ -6,6 +6,7 @@ file: /courses/esd-33-systems-engineering-summer-2010/d9ebd745bd9dbc37604c2a271a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Course Introduction
 uid: d9ebd745-bd9d-bc37-604c-2a271a866b29
 ---
 Lecture notes on systems, systems engineering, and why we study systems engineering.
-

@@ -7,6 +7,7 @@ file: /courses/esd-33-systems-engineering-summer-2010/a3ea8483fe0d1c0aac89e716d7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Operating Operating Windows Windows for Robust Concept Design (and other 
 uid: a3ea8483-fe0d-1c0a-ac89-e716d7c40951
 ---
 Lecture presentation on operating window methods methods, concept design strategies, adaptive one-variable-at-a-time (OFAT) for robust design, and noise strategy.
-

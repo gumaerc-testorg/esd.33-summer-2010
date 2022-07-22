@@ -5,6 +5,7 @@ file: /courses/esd-33-systems-engineering-summer-2010/da4f0ab637aecd865f5e29f617
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Experiments: Strategy, Design, Analysis'
 uid: da4f0ab6-37ae-cd86-5f5e-29f617ac42f8
 ---
 Lecture presentation on the role of experiments in systems engineering.
-
