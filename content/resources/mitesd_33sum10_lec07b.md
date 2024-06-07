@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation providing a quick guide to critical parameter development
   and management.
 file: /courses/esd-33-systems-engineering-summer-2010/69261b72bed60ec44f5e50c12fa7fade_MITESD_33SUM10_lec07b.pdf
+file_size: 407350
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

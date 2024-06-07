@@ -4,6 +4,7 @@ description: 'Diagram of a fuel and engine management system in an automobile. T
   system includes components of the powertrain system, which is discussed in Lec #2
   of this course. (Image by MIT OpenCourseWare.)'
 file: /courses/esd-33-systems-engineering-summer-2010/4182173bc6c91f514aaeb8dbd90e032b_esd-33s10-th.jpg
+file_size: 9746
 file_type: image/jpeg
 image_metadata:
   caption: 'Diagram of a fuel and engine management system in an automobile. This
