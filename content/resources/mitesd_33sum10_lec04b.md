@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on requirements engineering.
-file: /courses/esd-33-systems-engineering-summer-2010/cefc678e701b9e7501b5ca98fba89080_MITESD_33SUM10_lec04b.pdf
+file: /ol-ocw-studio-app/courses/esd-33-systems-engineering-summer-2010/cefc678e701b9e7501b5ca98fba89080_MITESD_33SUM10_lec04b.pdf
 file_size: 3737661
 file_type: application/pdf
 learning_resource_types:
