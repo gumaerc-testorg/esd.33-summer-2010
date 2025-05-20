@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on systems, systems engineering, and why we study systems
   engineering.
-file: /ol-ocw-studio-app/courses/esd-33-systems-engineering-summer-2010/d9ebd745bd9dbc37604c2a271a866b29_MITESD_33SUM10_lec01.pdf
+file: /courses/esd-33-systems-engineering-summer-2010/d9ebd745bd9dbc37604c2a271a866b29_MITESD_33SUM10_lec01.pdf
 file_size: 1028331
 file_type: application/pdf
 learning_resource_types:
