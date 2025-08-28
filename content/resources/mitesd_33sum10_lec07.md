@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on critical parameter development and management,
   deriving capability indices, and seven checks for criticality.
-file: /courses/esd-33-systems-engineering-summer-2010/95297204c1d43734b72f67193f2aff71_MITESD_33SUM10_lec07.pdf
+file: /ol-ocw-studio-app/courses/esd-33-systems-engineering-summer-2010/95297204c1d43734b72f67193f2aff71_MITESD_33SUM10_lec07.pdf
 file_size: 478684
 file_type: application/pdf
 learning_resource_types:
