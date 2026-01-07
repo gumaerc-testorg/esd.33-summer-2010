@@ -29,7 +29,7 @@ This course intends to help you develop the capability of systems thinking by in
 
 ### Required Textbooks
 
-{{% resource_link "28fd568d-260c-42a7-ba85-c35e590f2636" "_INCOSE Systems Engineering Handbook, v3.2_" %}}. San Diego, CA: INCOSE, 2010.
+[_INCOSE Systems Engineering Handbook, v3.2_](http://www.incose.org/ProductsPubs/incosestore.aspx). San Diego, CA: INCOSE, 2010.
 
 Miller, John. _QBQ! The Question Behind the Question: Practicing Personal Accountability at Work and in Life_. East Rutherford, NJ: Putnam Publishing Group, 2004. ISBN: 9780399152337.
 

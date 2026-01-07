@@ -32,7 +32,7 @@ READINGS
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-Chapters 1-3 in _{{% resource_link "28fd568d-260c-42a7-ba85-c35e590f2636" "INCOSE Systems Engineering Handbook, v3.2" %}}_. San Diego, CA: INCOSE, 2010.
+Chapters 1-3 in _[INCOSE Systems Engineering Handbook, v3.2](http://www.incose.org/ProductsPubs/incosestore.aspx)_. San Diego, CA: INCOSE, 2010.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +64,7 @@ Hommes, Qi D., and Paul W. Berry. "Managing System Interface Requirements Reconc
 Student project proposal presentations
 {{< tdclose >}}
 {{< tdopen >}}
-Chapters 1-3 in {{% resource_link "28fd568d-260c-42a7-ba85-c35e590f2636" "_INCOSE Systems Engineering Handbook, v3.2_" %}}. San Diego, CA: INCOSE, 2010.
+Chapters 1-3 in [_INCOSE Systems Engineering Handbook, v3.2_](http://www.incose.org/ProductsPubs/incosestore.aspx). San Diego, CA: INCOSE, 2010.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +78,7 @@ Stakeholders and requirements, requirements and management
 {{< tdopen >}}
 
 
-Chapter 4.1-4.2 in _{{% resource_link "28fd568d-260c-42a7-ba85-c35e590f2636" "INCOSE Systems Engineering Handbook, v3.2" %}}_. San Diego, CA: INCOSE, 2010.
+Chapter 4.1-4.2 in _[INCOSE Systems Engineering Handbook, v3.2](http://www.incose.org/ProductsPubs/incosestore.aspx)_. San Diego, CA: INCOSE, 2010.
 
 Sampson, Mark E. "The Allegory of the Humidifier: A case study of Return on Investment in Systems Engineering." INCOSE proceedings, 1994.
 
@@ -157,13 +157,13 @@ Concept selection/trade space study
 {{< tdopen >}}
 
 
-Chapter 4.3-4.4 in _{{% resource_link "28fd568d-260c-42a7-ba85-c35e590f2636" "INCOSE Systems Engineering Handbook, v3.2" %}}_. San Diego, CA: INCOSE, 2010.
+Chapter 4.3-4.4 in _[INCOSE Systems Engineering Handbook, v3.2](http://www.incose.org/ProductsPubs/incosestore.aspx)_. San Diego, CA: INCOSE, 2010.
 
 McManus, Hugh L., and Todd E. Schuman. "Understanding the Orbital Transfer Vehicle Trade Space." AIAA Space Conference and Exposition, Long Beach, CA, September 23-25, 2003.
 
 Ross, Adam M., and Daniel E. Hastings. "The Tradespace Exploration Paradigm." INCOSE International Symposium, Rochester, NY, July 10-15, 2005.
 
-National Aeronautics and Space Administration. Chapter 6 in _Systems Engineering Handbook_. Washington, D.C.: NASA STI, 2007. ({{% resource_link "b9a877dd-a377-45f3-b395-6dbd4d915ec7" "PDF - 8.5MB" %}})
+National Aeronautics and Space Administration. Chapter 6 in _Systems Engineering Handbook_. Washington, D.C.: NASA STI, 2007. ([PDF - 8.5MB](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20080008301_2008008500.pdf))
 
 
 {{< tdclose >}}
@@ -225,7 +225,7 @@ Clausing, Don. "Operating Window: An Engineering measure for Robustness." _Techn
 DV&V, reliability, system attributes
 {{< tdclose >}}
 {{< tdopen >}}
-Chapter 4.5-4.13 in _{{% resource_link "28fd568d-260c-42a7-ba85-c35e590f2636" "INCOSE Systems Engineering Handbook, v3.2" %}}_. San Diego, CA: INCOSE, 2010.
+Chapter 4.5-4.13 in _[INCOSE Systems Engineering Handbook, v3.2](http://www.incose.org/ProductsPubs/incosestore.aspx)_. San Diego, CA: INCOSE, 2010.
 {{< tdclose >}}
 
 {{< trclose >}}
